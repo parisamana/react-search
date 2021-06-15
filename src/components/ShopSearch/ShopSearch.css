@@ -1,0 +1,14 @@
+.logo-img {
+    max-width:100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.item-wrap {
+    position: relative;
+    padding: 2vh;
+    display: inline-block;
+    margin: 1vh;
+    border-radius: 10px;
+    background: linear-gradient(7deg, rgb(204 204 204) 35%, rgba(236,236,236,1) 100%);
+}
